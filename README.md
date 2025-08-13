@@ -8,12 +8,12 @@ To analyze Prime Video’s content library, identify trends in genres, ratings, 
 Prime Video Dataset – Kaggle
 
 ## Key Questions (KPIs)
--How many total titles are on Prime Video?
--What is the split between Movies and TV Shows?
--Which are the most popular genres?
--What is the most common audience rating?
--Which countries produce the most content?
--How has content production changed over time?
+How many total titles are on Prime Video?
+What is the split between Movies and TV Shows?
+Which are the most popular genres?
+What is the most common audience rating?
+Which countries produce the most content?
+How has content production changed over time?
 
 ## Process
 Data Collection – Obtained dataset from Kaggle.
